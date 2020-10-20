@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm FatDoge! 👋
 
 <!--
 **FatDoge/FatDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![FatDoge's github stats](https://github-readme-stats.vercel.app/api?username=fatdoge&count_private=true&show_icons=true)
+### Github Stats
+![FatDoge's github stats](https://github-readme-stats.vercel.app/api?username=fatdoge&count_private=true&show_icons=true&theme=react)
+### Top langs
+![FatDoge's github top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatdoge&theme=react&layout=compact)
+
+<a href="https://github.com/fatdoge/watermark-enhancer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatdoge&repo=watermark-enhancer" />
+</a>
