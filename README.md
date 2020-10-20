@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Github Stats
-![FatDoge's github stats](https://github-readme-stats.vercel.app/api?username=fatdoge&count_private=true&show_icons=true&theme=react)
+![FatDoge's github stats](https://github-readme-stats.vercel.app/api?username=fatdoge&count_private=true&show_icons=true)
 ### Top langs
-![FatDoge's github top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatdoge&theme=react&layout=compact)
-
+![FatDoge's github top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatdoge&layout=compact)
+### Interesting repo
 <a href="https://github.com/fatdoge/watermark-enhancer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatdoge&repo=watermark-enhancer" />
 </a>
