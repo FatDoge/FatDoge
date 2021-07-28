@@ -5,5 +5,9 @@ const UserInfo = {
   nickname: 'fatdoge',
   email: 'xk704274491@gmail.com',
   addr: 'Hangzhou || Shanghai, China',
+  website: ['https://fatdoge.cn', 'https://fatdoge.im'],
+  weibo: 'fatdoge',
+  juejin: 'fatdoge',
+  zhihu: 'fatdoge'
 };
 ```
