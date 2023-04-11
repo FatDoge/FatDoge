@@ -1,4 +1,4 @@
-![FatDoge's github stats](https://github-readme-stats-eight-mu-23.vercel.app/api?username=fatdoge&count_private=true&show_icons=true)
+![FatDoge's github stats](https://github-readme-stats-eight-mu-23.vercel.app/api?username=fatdoge&count_private=true&include_all_commits&show_icons=true)
 
 ``` javascript
 const UserInfo = {
