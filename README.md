@@ -11,3 +11,4 @@ const UserInfo = {
   zhihu: 'fatdoge'
 };
 ```
+![](https://raw.githubusercontent.com/FatDoge/FatDoge/main/assets/github-contribution-grid-snake.svg)
